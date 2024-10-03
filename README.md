@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I’m Ryan. 👋
+
+[Click to check out my site 🙂!](https://yrmo.ca)
+
+🌱 I'm learning CUDA C++
+
+![](https://media.tenor.com/drCvasG5J6IAAAAj/cute.gif)
 
 <!--
 **yrmo/yrmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
